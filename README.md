@@ -39,7 +39,7 @@ Now for the actual goods, what we all came here for. If you want to make your Sy
 
 [Microsoft Azure Parsers GitHub Repo](https://github.com/Azure/Azure-Sentinel/blob/master/Parsers/) - and has a Sysmon parser available.
 
-So, [here's another one](https://github.com/DefensiveOrigins/MSSentinelSysmonParser/blob/main/SysmonParser) crafted from other bits and pieces available.
+Buttttttttt, [here's another one](https://github.com/DefensiveOrigins/MSSentinelSysmonParser/blob/main/SysmonParser) we wrote for our APT class crafted from other bits and pieces available.
 
 As shown, you want to copy the contents of the parser.
 
