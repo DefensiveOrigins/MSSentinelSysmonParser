@@ -9,22 +9,22 @@ A simple parser for Sysmon logs through EID28 for Microsoft Sentinel
 
 <kbd> <img src="img/sysmon-config-schema.jpg" > </kbd>
 
-![](img/sysmon-config-adds.jpg)
+<kbd> <img src="img/sysmon-config-adds.jpg" > </kbd>
 
-![](img/chrome-download.jpg)
+<kbd> <img src="img/chrome-download.jpg" > </kbd>
 
-![](img/eid27-block-chrome.jpg)
+<kbd> <img src="img/eid27-block-chrome.jpg" > </kbd>
 
-![](img/cli-sdelete-firefox.jpg)
+<kbd> <img src="img/cli-sdelete-firefox.jpg" > </kbd>
 
-![](img/eid28-shred-firefox.jpg)
+<kbd> <img src="img/eid28-shred-firefox.jpg" > </kbd>
 
 https://github.com/DefensiveOrigins/MSSentinelSysmonParser/blob/main/SysmonParser
 
-![](img/parser-copy.jpg)
+<kbd> <img src="img/parser-copy.jpg" > </kbd>
 
-![](img/parser-paste.jpg)
+<kbd> <img src="img/parser-paste.jpg" > </kbd>
 
-![](img/parser-save.jpg)
+<kbd> <img src="img/parser-save.jpg" > </kbd>
 
-![](img/parser-usage.jpg)
+<kbd> <img src="img/parser-usage.jpg" > </kbd>
