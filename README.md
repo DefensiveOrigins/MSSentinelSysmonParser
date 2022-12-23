@@ -7,7 +7,7 @@ A simple parser for Sysmon logs through EID28 for Microsoft Sentinel
 
 [Olaf Hartong's recent article on Sysmon EID 27 - file block executables](https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e) - and the baseline for getting this written, the parser cleaned up, and pushed to GitHub.
 
-![](img/sysmon-config-schema.jpg)
+<kbd> <img src="img/sysmon-config-schema.jpg" > </kbd>
 
 ![](img/sysmon-config-adds.jpg)
 
