@@ -39,9 +39,7 @@ Now for the actual goods, what we all came here for. If you want to make your Sy
 
 [Microsoft Azure Parsers GitHub Repo](https://github.com/Azure/Azure-Sentinel/blob/master/Parsers/) - and has a Sysmon parser available.
 
-So, here's another one crafted from other bits and pieces available.
-
-[Click here](https://github.com/DefensiveOrigins/MSSentinelSysmonParser/blob/main/SysmonParser) for another sysmon parser.
+So, [here's another one](https://github.com/DefensiveOrigins/MSSentinelSysmonParser/blob/main/SysmonParser) crafted from other bits and pieces available.
 
 As shown, you want to copy the contents of the parser.
 
